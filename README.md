@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+https://console.firebase.google.com/u/0/project/peter-moueza-nx-f/apphosting
+
+https://peter-moueza-nx-f--peter-moueza-nx-f.europe-west4.hosted.app/
+
+
 ## Getting Started
 
 First, run the development server:
